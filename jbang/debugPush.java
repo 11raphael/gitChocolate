@@ -2,6 +2,12 @@
 //DEPS org.eclipse.jgit:org.eclipse.jgit:7.1.0.202411261347-r
 //DEPS com.jcraft:jsch:0.1.55
 
+/*
+ * 
+ * not working currently
+ * 
+ */
+
 import org.eclipse.jgit.api.Git;
 import org.eclipse.jgit.api.PushCommand;
 import org.eclipse.jgit.api.errors.GitAPIException;
